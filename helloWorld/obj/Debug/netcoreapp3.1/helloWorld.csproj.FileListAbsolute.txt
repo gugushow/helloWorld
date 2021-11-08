@@ -1,0 +1,14 @@
+D:\Imersao_Logica\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.exe
+D:\Imersao_Logica\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.deps.json
+D:\Imersao_Logica\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.json
+D:\Imersao_Logica\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.dev.json
+D:\Imersao_Logica\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.dll
+D:\Imersao_Logica\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.pdb
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csproj.AssemblyReference.cache
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfoInputs.cache
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfo.cs
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csproj.CoreCompileInputs.cache
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.dll
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.pdb
+D:\Imersao_Logica\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.genruntimeconfig.cache
